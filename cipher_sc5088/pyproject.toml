@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "cipher_sc5088"
 version = "0.1.0"
-description = "This is a package that can decrypt and encrypt text! "
-authors = ["Jasmine Chen "]
+description = "This is a packagge that can cipher text!"
+authors = ["Jasmine Chen"]
 license = "MIT"
 readme = "README.md"
 
@@ -10,11 +10,6 @@ readme = "README.md"
 python = "^3.9"
 
 [tool.poetry.dev-dependencies]
-
-[tool.poetry.group.dev.dependencies]
-myst-nb = "^0.17.1"
-sphinx-autoapi = "^2.0.0"
-sphinx-rtd-theme = "^1.0.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

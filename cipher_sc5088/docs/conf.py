@@ -7,8 +7,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u"cipher_sc5088"
-copyright = u"2022, Jasmine Chen "
-author = u"Jasmine Chen "
+copyright = u"2022, Jasmine Chen"
+author = u"Jasmine Chen"
 
 # -- General configuration ---------------------------------------------------
 

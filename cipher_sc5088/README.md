@@ -1,6 +1,6 @@
 # cipher_sc5088
 
-This is a package that can decrypt and encrypt text! 
+This is a packagge that can cipher text!
 
 ## Installation
 
@@ -18,7 +18,7 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`cipher_sc5088` was created by Jasmine Chen . It is licensed under the terms of the MIT license.
+`cipher_sc5088` was created by Jasmine Chen. It is licensed under the terms of the MIT license.
 
 ## Credits
 
