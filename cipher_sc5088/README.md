@@ -1,6 +1,6 @@
 # cipher_sc5088
 
-This is a packagge that can cipher text!
+This is a package that can cipher text!
 
 ## Installation
 
